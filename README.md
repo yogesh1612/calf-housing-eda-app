@@ -1,2 +1,2 @@
 # calf-housing-eda-app
-EDA App for California housing dataset
+EDA App for California housing dataset using streamlit
